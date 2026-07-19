@@ -10,7 +10,7 @@ My focus can change suddenly, so this page helps me to keep track of everything.
 
 
 
-### Current Projects
+### Current Activities
 
 I am typically working on several mini projects at the same time, depending on the priorities.
 
@@ -69,6 +69,7 @@ Sometimes I am working on something, but have to switch my focus to another proj
 | Acceleration                                                 | Lots of analysis was undertaken relating to acceleration, but it still needs documenting |
 | Spike Filters                                                | Approaches to filtering that massively improve spike handling for a variety of devices |
 | Garmin Fix                                                   | Garmin FIT files are subject to timing issues, but I devised an algorithm to fix the issue |
+| Garmin Tests                                                 | Numerous static tests using 12 or more different Garmin devices, never documented |
 
 
 
@@ -77,5 +78,4 @@ Sometimes I am working on something, but have to switch my focus to another proj
 | Project                                          | Summary                                                      |
 | ------------------------------------------------ | ------------------------------------------------------------ |
 | [GPX Ideas](https://github.com/Logiqx/gpx-ideas) | This project captured some ideas for a collection of “standard” GPX extensions |
-| Garmin Testing                                   | Numerous static tests using 12 or more different Garmin devices, never documented |
-| Garmin Antennas                                  | The evolution of Garmin antennas is quite interesting, but I never wrote it up |
+| Garmin Antennas                                  | The evolution of Garmin antennas is quite interesting, but I never wrote up my notes |
