@@ -18,7 +18,7 @@ I am typically working on several mini projects at the same time, depending on t
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [UBX Config](https://logiqx.github.io/ubx-cfg/)              | Documenting various aspects of the u-blox M10 that are relevant to the speed sailing community |
 | [ESP Config](https://logiqx.github.io/ubx-cfg/testing/static-esp/) | Study to identify the optimal ESP GPS configuration(s), and provide clarity to the ESP GPS community |
-| [Motion Config](https://logiqx.github.io/gps-details/devices/motion/) | Kinematic testing of 5 Hz vs 10 Hz produces some interesting results, which I intend to document |
+| [Motion GPS](https://logiqx.github.io/gps-details/devices/motion/) | Kinematic testing of 5 Hz vs 10 Hz produces some interesting results, which I intend to document |
 | [GPY 1.1](https://logiqx.github.io/gps-wizard/ideas/gpy/)    | A proposal which builds upon the "minimal" frames that are currently supported by the GPY format |
 
 
@@ -38,7 +38,7 @@ There are some devices that I have studied in great detail, but lost momentum an
 
 | Project                                                      | Summary                                                      |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [Garmin](garmin/synaptics.md)                                | Evaluations of models using the Synaptics chipset - e.g. Garmin Forerunner 970 + fenix 8 Pro |
+| [Garmin](https://logiqx.github.io/gps-details/devices/garmin/) | Evaluations of the Synaptics chipset - e.g. Garmin Forerunner 970 + fenix 8 Pro |
 | [COROS](https://logiqx.github.io/gps-details/devices/coros/) | Firmware issues keep cropping up, and I cannot keep testing all of their releases |
 | [Apple](https://logiqx.github.io/gps-details/devices/apple/) | Lots of evaluations have been performed for the Series 5 to Series 10, Ultra 1 + 2, SE, etc. |
 | Vakaros                                                      | More of an "intent" than an investigation, since I do not have much Vakaros + Motion data |
