@@ -16,10 +16,10 @@ I am typically working on several mini projects at the same time, depending on t
 
 |                           Project                            | Summary                                                      |
 | :----------------------------------------------------------: | ------------------------------------------------------------ |
-|       [UBX Config](https://logiqx.github.io/ubx-cfg/)        | Documenting various aspects of the u-blox M10 that are relevant to the speed sailing community |
-| [ESP Config](https://logiqx.github.io/ubx-cfg/testing/static-esp/) | Study to identify the optimal ESP GPS configuration(s), and provide clarity to the ESP GPS community |
-| [Motion](https://logiqx.github.io/gps-details/devices/motion/) | Kinematic testing of 5 Hz vs 10 Hz produces some interesting results, which I intend to document |
-|  [GPY 1.1](https://logiqx.github.io/gps-wizard/ideas/gpy/)   | A proposal which builds upon the "minimal" frames that are currently supported by the GPY format |
+|       [UBX Config](https://logiqx.github.io/ubx-cfg/)        | Documents aspects of the u-blox M10 that are relevant to the speed sailing community |
+| [ESP Config](https://logiqx.github.io/ubx-cfg/testing/static-esp/) | Study to identify optimal ESP GPS configuration(s), providing clarity to users of the ESP GPS |
+| [Motion](https://logiqx.github.io/gps-details/devices/motion/) | Kinematic testing of 5 Hz vs 10 Hz produces interesting results which I need to document |
+|  [GPY 1.1](https://logiqx.github.io/gps-wizard/ideas/gpy/)   | Proposal builds upon the "minimal" frames that are currently supported by the GPY format |
 
 
 
