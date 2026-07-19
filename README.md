@@ -37,12 +37,12 @@ I am usually testing and evaluating multiple devices (or apps) at the same time,
 
 There are some devices that I have studied in great detail, but lost momentum and still need to document.
 
-| Project                                                      | Summary                                                      |
+|                           Project                            | Summary                                                      |
 | :----------------------------------------------------------: | ------------------------------------------------------------ |
 | [Garmin](https://logiqx.github.io/gps-details/devices/garmin/) | Evaluations of the Synaptics chipset - e.g. Garmin Forerunner 970 + fenix 8 Pro |
-| [COROS](https://logiqx.github.io/gps-details/devices/coros/) | Firmware issues keep cropping up, and I cannot keep testing all of their releases |
+| [COROS](https://logiqx.github.io/gps-details/devices/coros/) | Firmware issues keep cropping up, but I cannot test and document every FW release |
 | [Apple](https://logiqx.github.io/gps-details/devices/apple/) | Lots of evaluations have been performed for the Series 5 to Series 10, Ultra 1 + 2, SE, etc. |
-| Vakaros                                                      | More of an "intent" than an investigation, since I do not have much Vakaros + Motion data |
+|                           Vakaros                            | More of an "intent" than an investigation, since I do not have much Vakaros + Motion data |
 
 
 
@@ -62,15 +62,15 @@ Some of my projects have much longer term goals, and quite different in nature t
 
 Sometimes I am working on something, but have to switch my focus to another project.
 
-| Project                                                      | Summary                                                      |
+|                           Project                            | Summary                                                      |
 | :----------------------------------------------------------: | ------------------------------------------------------------ |
-| [Garmin IDs](https://github.com/Logiqx/garmin-ids)           | Automated catalogue of Garmin watches via their API          |
+|      [Garmin IDs](https://github.com/Logiqx/garmin-ids)      | Automated catalogue of Garmin watches via the API, and update my Garmin page |
 | [Gybe Analysis](https://logiqx.github.io/gps-wizard/ideas/gybes/) | Thoughts about the measurement of gybes and tacks, which needs some revision |
 | [Decimation](https://logiqx.github.io/gps-wizard/ideas/decimation/) | When converting to 1 Hz there are some important factors to be considered |
-| Acceleration                                                 | Lots of analysis was undertaken relating to acceleration, but it still needs documenting |
-| Spike Filters                                                | Approaches to filtering that massively improve spike handling for a variety of devices |
-| Garmin Fix                                                   | Garmin FIT files are subject to timing issues, but I devised an algorithm to fix the issue |
-| Garmin Tests                                                 | Numerous static tests using 12 or more different Garmin devices, never documented |
+|                         Acceleration                         | Lots of analysis was undertaken relating to acceleration, but it still needs documenting |
+|                        Spike Filters                         | Approaches to filtering that massively improve spike handling for a variety of devices |
+|                          Garmin Fix                          | Garmin FIT files are subject to timing issues, but I devised an algorithm to fix the issue |
+|                         Garmin Tests                         | Numerous static tests using 12 or more different Garmin devices, never documented |
 
 
 
