@@ -27,12 +27,12 @@ I am typically working on several mini projects at the same time, depending on t
 
 I am usually testing and evaluating multiple devices (or apps) at the same time, and often providing feedback.
 
-| Project                                                      | Summary                                                      |
+|                           Project                            | Summary                                                      |
 | :----------------------------------------------------------: | ------------------------------------------------------------ |
 | [APPro](https://apps.garmin.com/en-US/apps/9567700b-6587-44be-9708-879bfc844791) | Testing of new builds, discussing ideas for new features, etc |
-| [ESP GPS](https://github.com/RP6conrad/ESP-GPS-Logger)       | Testing and evaluation of the ESP GPS, discussing ideas, and possible enhancements |
-| LISA GPS                                                     | Testing and evaluation of the LISA GPS which is based on the ESP GPS |
-| SYRAC GPS                                                    | Testing and evaluation of the SYRAC GPS which is based on the ESP GPS |
+|    [ESP GPS](https://github.com/RP6conrad/ESP-GPS-Logger)    | Testing and evaluating the ESP GPS, sharing thoughts and suggestions |
+|                           LISA GPS                           | Testing and evaluating the LISA GPS, which is based on the ESP GPS |
+|                          SYRAC GPS                           | Testing and evaluating the SYRAC GPS, which is based on the ESP GPS |
 
 There are some devices that I have studied in great detail, but lost momentum and still need to document.
 
