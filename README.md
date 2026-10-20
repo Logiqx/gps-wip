@@ -16,13 +16,11 @@ My focus can change suddenly, so this page helps me to keep track of everything 
 
 I am typically working on several mini projects at the same time, depending on the priorities.
 
-|                      Project                       | Summary                                                      |
-| :------------------------------------------------: | ------------------------------------------------------------ |
-|                        WSW                         | Weymouth Speed Week 2026, including beach course improvements |
-|                     Farrel Cup                     | Prince of Speed - Farrel Cup 2026                            |
-| [Garmin IDs](https://github.com/Logiqx/garmin-ids) | Automated cataloguing of Garmin watches, and updates to my [Garmin page](https://logiqx.github.io/gps-details/devices/garmin/) |
-|                    "When" issue                    | Clock drift issue manifesting in Garmin watches, unrelated to FIT persistence issues |
-|                     ESP Gates                      | Validation of results produced for 500 m courses at Prince of Speed |
+|                           Project                            | Summary                                                      |
+| :----------------------------------------------------------: | ------------------------------------------------------------ |
+|      [Garmin IDs](https://github.com/Logiqx/garmin-ids)      | Automated cataloguing of Garmin watches, and updates to my [Garmin page](https://logiqx.github.io/gps-details/devices/garmin/) |
+| [Garmin Issues](https://github.com/Logiqx/garmin-issues/issues) | Keeping track of issues on newer Garmin watches              |
+|                          ESP Gates                           | Validation of results produced for 500 m courses at Prince of Speed |
 
 
 
@@ -32,6 +30,8 @@ During Jun and Jul 2026, I undertook a couple of studies relating to the UBX chi
 
 |                           Project                            | Summary                                                      |
 | :----------------------------------------------------------: | ------------------------------------------------------------ |
+|                             WSW                              | Weymouth Speed Week 2026, including beach course improvements |
+|                          Farrel Cup                          | Prince of Speed - Farrel Cup 2026                            |
 |       [UBX Config](https://logiqx.github.io/ubx-cfg/)        | Documents aspects of the u-blox M10 that are relevant to the speed sailing community |
 | [ESP Config](https://logiqx.github.io/ubx-cfg/testing/static-esp/) | Study to identify optimal ESP GPS configuration(s), providing clarity to users of the ESP GPS |
 
