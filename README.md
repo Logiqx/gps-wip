@@ -1,6 +1,6 @@
 ## GPS Projects - Work in Progress
 
-Last updated: 26 Aug 2026
+Last updated: 21 October 2026
 
 
 
@@ -20,7 +20,24 @@ I am typically working on several mini projects at the same time, depending on t
 | :----------------------------------------------------------: | ------------------------------------------------------------ |
 |      [Garmin IDs](https://github.com/Logiqx/garmin-ids)      | Automated cataloguing of Garmin watches, and updates to my [Garmin page](https://logiqx.github.io/gps-details/devices/garmin/) |
 | [Garmin Issues](https://github.com/Logiqx/garmin-issues/issues) | Keeping track of issues on newer Garmin watches              |
-|                          ESP Gates                           | Validation of results produced for 500 m courses at Prince of Speed |
+|                        Garmin Advice                         | Advice for developers of apps and websites                   |
+|                         ESP Testing                          | Testing, feedback, thoughts and suggestions                  |
+|                         Gate Results                         | Validation of results produced for 500 m courses at Prince of Speed |
+
+
+
+### Issues and Enhancements
+
+I have a number of projects on Github where I am tracking issues and enhancements:
+
+|                           Project                            | Summary                                                      |
+| :----------------------------------------------------------: | ------------------------------------------------------------ |
+|     [gp3s-coros](https://github.com/Logiqx/gp3s-coros/)      | GPS3S wishlist for future COROS firmware releases            |
+|  [garmin-issues](https://github.com/Logiqx/garmin-issues/)   | Issues that affect Garmin watches being used for speed sailing, etc |
+|       [ubx-config](https://github.com/Logiqx/ubx-cfg/)       | Thoughts about u-blox configuration for speed sailing devices |
+| [esp-gps-feedback](https://github.com/Logiqx/esp-gps-feedback) | Private repo to share feedback, thoughts and suggestions     |
+|   [speedsurf.app](https://github.com/Logiqx/speedsurf.app)   | Private repo to to capture thoughts / ideas                  |
+
 
 
 
@@ -30,8 +47,6 @@ During Jun and Jul 2026, I undertook a couple of studies relating to the UBX chi
 
 |                           Project                            | Summary                                                      |
 | :----------------------------------------------------------: | ------------------------------------------------------------ |
-|                             WSW                              | Weymouth Speed Week 2026, including beach course improvements |
-|                          Farrel Cup                          | Prince of Speed - Farrel Cup 2026                            |
 |       [UBX Config](https://logiqx.github.io/ubx-cfg/)        | Documents aspects of the u-blox M10 that are relevant to the speed sailing community |
 | [ESP Config](https://logiqx.github.io/ubx-cfg/testing/static-esp/) | Study to identify optimal ESP GPS configuration(s), providing clarity to users of the ESP GPS |
 
@@ -55,7 +70,7 @@ There are some devices that I have studied in great detail, but lost momentum an
 | [Garmin](https://logiqx.github.io/gps-details/devices/garmin/) | Evaluations of the Synaptics chipset - e.g. Garmin Forerunner 970 + fenix 8 Pro |
 | [COROS](https://logiqx.github.io/gps-details/devices/coros/) | Firmware issues keep cropping up, but I cannot test and document every FW release |
 | [Apple](https://logiqx.github.io/gps-details/devices/apple/) | Lots of evaluations have been performed for the Series 5 to Series 10, Ultra 1 + 2, SE, etc. |
-|                           Vakaros                            | More of an "intent" than an investigation, since I do not have much Vakaros + Motion data |
+|                           Vakaros                            | Early evaluations have been completed, but not documented or fed back to Vakaros |
 
 
 
