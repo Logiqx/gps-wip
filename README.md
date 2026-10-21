@@ -22,7 +22,6 @@ I am typically working on several mini projects at the same time, depending on t
 | [Garmin Issues](https://github.com/Logiqx/garmin-issues/issues) | Keeping track of issues on newer Garmin watches              |
 |                        Garmin Advice                         | Advice for developers of apps and websites                   |
 |                         ESP Testing                          | Testing, feedback, thoughts and suggestions                  |
-|                         Gate Results                         | Validation of results produced for 500 m courses at Prince of Speed |
 
 
 
