@@ -1,6 +1,6 @@
 ## GPS Projects - Work in Progress
 
-Last updated: 21 October 2026
+Last updated: 8 Nov 2026
 
 
 
@@ -14,14 +14,12 @@ My focus can change suddenly, so this page helps me to keep track of everything 
 
 ### Current Activities
 
-I am typically working on several mini projects at the same time, depending on the priorities.
+I am typically working on several mini projects at the same time, depending on day-to-day priorities.
 
-|                           Project                            | Summary                                                      |
-| :----------------------------------------------------------: | ------------------------------------------------------------ |
-|      [Garmin IDs](https://github.com/Logiqx/garmin-ids)      | Automated cataloguing of Garmin watches, and updates to my [Garmin page](https://logiqx.github.io/gps-details/devices/garmin/) |
-| [Garmin Issues](https://github.com/Logiqx/garmin-issues/issues) | Keeping track of issues on newer Garmin watches              |
-|                        Garmin Advice                         | Advice for developers of apps and websites                   |
-|                         ESP Testing                          | Testing, feedback, thoughts and suggestions                  |
+|                           Project                            | Summary                                         |
+| :----------------------------------------------------------: | ----------------------------------------------- |
+|                           ESP-GPS                            | Testing, feedback, thoughts and suggestions     |
+| [Garmin Issues](https://github.com/Logiqx/garmin-issues/issues) | Keeping track of issues on newer Garmin watches |
 
 
 
@@ -31,10 +29,9 @@ I have a number of projects on Github where I am tracking issues and enhancement
 
 |                           Project                            | Summary                                                      |
 | :----------------------------------------------------------: | ------------------------------------------------------------ |
-|     [gp3s-coros](https://github.com/Logiqx/gp3s-coros/)      | GPS3S wishlist for future COROS firmware releases            |
-|  [garmin-issues](https://github.com/Logiqx/garmin-issues/)   | Issues that affect Garmin watches being used for speed sailing, etc |
-|       [ubx-config](https://github.com/Logiqx/ubx-cfg/)       | Thoughts about u-blox configuration for speed sailing devices |
 | [esp-gps-feedback](https://github.com/Logiqx/esp-gps-feedback) | Private repo to share feedback, thoughts and suggestions     |
+|  [garmin-issues](https://github.com/Logiqx/garmin-issues/)   | Issues that affect Garmin watches being used for speed sailing, etc |
+|     [gp3s-coros](https://github.com/Logiqx/gp3s-coros/)      | GPS3S wishlist for future COROS firmware releases            |
 |   [speedsurf.app](https://github.com/Logiqx/speedsurf.app)   | Private repo to to capture thoughts / ideas                  |
 
 
@@ -46,6 +43,10 @@ During Jun and Jul 2026, I undertook a couple of studies relating to the UBX chi
 
 |                           Project                            | Summary                                                      |
 | :----------------------------------------------------------: | ------------------------------------------------------------ |
+| [ESP Contribs](https://logiqx.github.io/gps-details/devices/esp-gps/contributors.html) | List of the various ESP-GPS contributors over the years      |
+| [Decimation](https://logiqx.github.io/gps-wizard/ideas/decimation/) | When converting to 1 Hz there are some important factors to be considered |
+| [Gybe Scores](http://logiqx.github.io/gps-wizard/ideas/gybes) | Revised my specification to reflect what was implemented on speedsurf.app |
+|      [Garmin IDs](https://github.com/Logiqx/garmin-ids)      | Automated cataloguing of Garmin watches, and updates to my [Garmin page](https://logiqx.github.io/gps-details/devices/garmin/) |
 |       [UBX Config](https://logiqx.github.io/ubx-cfg/)        | Documents aspects of the u-blox M10 that are relevant to the speed sailing community |
 | [ESP Config](https://logiqx.github.io/ubx-cfg/testing/static-esp/) | Study to identify optimal ESP GPS configuration(s), providing clarity to users of the ESP GPS |
 
@@ -59,8 +60,8 @@ I am usually testing and evaluating multiple devices (or apps) at the same time,
 | :----------------------------------------------------------: | ------------------------------------------------------------ |
 | [APPro](https://apps.garmin.com/en-US/apps/9567700b-6587-44be-9708-879bfc844791) | Testing of new builds, discussing ideas for new features, etc |
 |    [ESP GPS](https://github.com/RP6conrad/ESP-GPS-Logger)    | Testing and evaluating the ESP GPS, sharing thoughts and suggestions |
-|                           LISA GPS                           | Testing and evaluating the LISA GPS, which is based on the ESP GPS |
 |                          SYRAC GPS                           | Testing and evaluating the SYRAC GPS, which is based on the ESP GPS |
+|                           LISA GPS                           | Testing and evaluating the LISA GPS, which is based on the ESP GPS |
 
 There are some devices that I have studied in great detail, but lost momentum and still need to document.
 
@@ -69,7 +70,7 @@ There are some devices that I have studied in great detail, but lost momentum an
 | [Garmin](https://logiqx.github.io/gps-details/devices/garmin/) | Evaluations of the Synaptics chipset - e.g. Garmin Forerunner 970 + fenix 8 Pro |
 | [COROS](https://logiqx.github.io/gps-details/devices/coros/) | Firmware issues keep cropping up, but I cannot test and document every FW release |
 | [Apple](https://logiqx.github.io/gps-details/devices/apple/) | Lots of evaluations have been performed for the Series 5 to Series 10, Ultra 1 + 2, SE, etc. |
-|                           Vakaros                            | Early evaluations have been completed, but not documented or fed back to Vakaros |
+| [Vakaros](https://logiqx.github.io/gps-details/devices/vakaros/) | Early evaluations have been completed, but I have provided some feedback to Vakaros |
 
 
 
@@ -92,11 +93,10 @@ Sometimes I am working on something and often near completion, but have to park 
 
 |                           Project                            | Summary                                                      |
 | :----------------------------------------------------------: | ------------------------------------------------------------ |
-|                         Clock Drift                          | Study of clock drift and how it is handled by the SiRF Star II, SiRF Star III, and u-blox chips |
-|                        Gated Results                         | High-performance open source algorithm for gated results such as the 500 m at POS |
 | [Motion](https://logiqx.github.io/gps-details/devices/motion/) | Kinematic testing of 5 Hz vs 10 Hz produces interesting results which I need to document |
-| [Gybe Analysis](https://logiqx.github.io/gps-wizard/ideas/gybes/) | Thoughts about the measurement of gybes and tacks, which needs some revision |
-| [Decimation](https://logiqx.github.io/gps-wizard/ideas/decimation/) | When converting to 1 Hz there are some important factors to be considered |
+|                        Garmin Advice                         | Advice for developers of apps and websites                   |
+|                        Gated Results                         | High-performance open source algorithm for gated results such as the 500 m at POS |
+|                         Clock Drift                          | Study of clock drift and how it is handled by the SiRF Star II, SiRF Star III, and u-blox chips |
 |                         Integration                          | Documenting the different ways of integrating speed to calculate distance |
 |                      Error Propagation                       | Documenting the use of Gaussian error propagation... theory and practice |
 |                         Acceleration                         | Lots of analysis was undertaken relating to acceleration, but it still needs documenting |
