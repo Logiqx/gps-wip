@@ -1,6 +1,6 @@
 ## GPS Projects - Work in Progress
 
-Last updated: 8 Nov 2026
+Last updated: 15 Nov 2026
 
 
 
@@ -16,10 +16,14 @@ My focus can change suddenly, so this page helps me to keep track of everything 
 
 I am typically working on several mini projects at the same time, depending on day-to-day priorities.
 
-|                           Project                            | Summary                                         |
-| :----------------------------------------------------------: | ----------------------------------------------- |
-|                           ESP-GPS                            | Testing, feedback, thoughts and suggestions     |
-| [Garmin Issues](https://github.com/Logiqx/garmin-issues/issues) | Keeping track of issues on newer Garmin watches |
+|                           Project                            | Summary                                               |
+| :----------------------------------------------------------: | ----------------------------------------------------- |
+|                           ESP-GPS                            | Testing, feedback, thoughts and suggestions           |
+|                        Speedsurf.app                         | Providing feedback and suggestions                    |
+|                        Gated Results                         | Practical open source algorithm for gated results     |
+| [Garmin Issues](https://github.com/Logiqx/garmin-issues/issues) | Keeping track of issues on newer Garmin watches       |
+| [GPS Niggles](https://github.com/Logiqx/gps-niggles/issues)  | Reviewing old Github repo capturing general issues    |
+|                            COROS                             | FW 3.2108.0 for APEX 4, APEX 2 / 2 Pro, VERTIX 2 / 2S |
 
 
 
@@ -31,6 +35,7 @@ I have a number of projects on Github where I am tracking issues and enhancement
 | :----------------------------------------------------------: | ------------------------------------------------------------ |
 | [esp-gps-feedback](https://github.com/Logiqx/esp-gps-feedback) | Private repo to share feedback, thoughts and suggestions     |
 |  [garmin-issues](https://github.com/Logiqx/garmin-issues/)   | Issues that affect Garmin watches being used for speed sailing, etc |
+| [gps-niggles](https://github.com/Logiqx/gps-niggles/issues)  | Quite an old Github repo that captured various general issues |
 |     [gp3s-coros](https://github.com/Logiqx/gp3s-coros/)      | GPS3S wishlist for future COROS firmware releases            |
 |   [speedsurf.app](https://github.com/Logiqx/speedsurf.app)   | Private repo to to capture thoughts / ideas                  |
 
@@ -95,7 +100,7 @@ Sometimes I am working on something and often near completion, but have to park 
 | :----------------------------------------------------------: | ------------------------------------------------------------ |
 | [Motion](https://logiqx.github.io/gps-details/devices/motion/) | Kinematic testing of 5 Hz vs 10 Hz produces interesting results which I need to document |
 |                        Garmin Advice                         | Advice for developers of apps and websites                   |
-|                        Gated Results                         | High-performance open source algorithm for gated results such as the 500 m at POS |
+|                        Gated Results                         | Practical open source algorithm for gated results such as 501 m for Prince of Speed |
 |                         Clock Drift                          | Study of clock drift and how it is handled by the SiRF Star II, SiRF Star III, and u-blox chips |
 |                         Integration                          | Documenting the different ways of integrating speed to calculate distance |
 |                      Error Propagation                       | Documenting the use of Gaussian error propagation... theory and practice |
