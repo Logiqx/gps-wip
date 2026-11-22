@@ -1,6 +1,6 @@
 ## GPS Projects - Work in Progress
 
-Last updated: 15 Nov 2026
+Last updated: 22 Nov 2026
 
 
 
@@ -18,11 +18,13 @@ I am typically working on several mini projects at the same time, depending on d
 
 |                           Project                            | Summary                                               |
 | :----------------------------------------------------------: | ----------------------------------------------------- |
+|                         GP3S Filters                         | Enhanced filters to improve the quality of results    |
 |                           ESP-GPS                            | Testing, feedback, thoughts and suggestions           |
 |                        Speedsurf.app                         | Providing feedback and suggestions                    |
 |                        Gated Results                         | Practical open source algorithm for gated results     |
-| [Garmin Issues](https://github.com/Logiqx/garmin-issues/issues) | Keeping track of issues on newer Garmin watches       |
+| [Garmin Issues](https://github.com/Logiqx/garmin-issues/issues) | Documenting various Garmin issues and requests        |
 | [GPS Niggles](https://github.com/Logiqx/gps-niggles/issues)  | Reviewing old Github repo capturing general issues    |
+|                            Garmin                            | Testing the Forerunner 70 / 170 and the AG3352        |
 |                            COROS                             | FW 3.2108.0 for APEX 4, APEX 2 / 2 Pro, VERTIX 2 / 2S |
 
 
@@ -44,16 +46,18 @@ I have a number of projects on Github where I am tracking issues and enhancement
 
 ### Recent Activities
 
-During Jun and Jul 2026, I undertook a couple of studies relating to the UBX chipsets and ESP devices.
+These are some relatively recent activities which are listed in reverse-chronological order.
 
 |                           Project                            | Summary                                                      |
 | :----------------------------------------------------------: | ------------------------------------------------------------ |
+| [COROS Sats](https://logiqx.github.io/gps-details/devices/coros/investigations/sats/) | Quick investigation into the satellites being recorded by FW 3.2108.0 |
+| [COROS GNSS](https://logiqx.github.io/gps-details/devices/coros/chipsets/) | Documented the GNSS chipsets used in COROS devices           |
 | [ESP Contribs](https://logiqx.github.io/gps-details/devices/esp-gps/contributors.html) | List of the various ESP-GPS contributors over the years      |
-| [Decimation](https://logiqx.github.io/gps-wizard/ideas/decimation/) | When converting to 1 Hz there are some important factors to be considered |
-| [Gybe Scores](http://logiqx.github.io/gps-wizard/ideas/gybes) | Revised my specification to reflect what was implemented on speedsurf.app |
+| [Decimation](https://logiqx.github.io/gps-wizard/ideas/decimation/) | Simple approach for 1 Hz files on devices such as the ESP-GPS |
+| [Gybe Scores](http://logiqx.github.io/gps-wizard/ideas/gybes) | Revised specification to reflect the implementation on speedsurf.app |
 |      [Garmin IDs](https://github.com/Logiqx/garmin-ids)      | Automated cataloguing of Garmin watches, and updates to my [Garmin page](https://logiqx.github.io/gps-details/devices/garmin/) |
-|       [UBX Config](https://logiqx.github.io/ubx-cfg/)        | Documents aspects of the u-blox M10 that are relevant to the speed sailing community |
-| [ESP Config](https://logiqx.github.io/ubx-cfg/testing/static-esp/) | Study to identify optimal ESP GPS configuration(s), providing clarity to users of the ESP GPS |
+|       [UBX Config](https://logiqx.github.io/ubx-cfg/)        | Documented the u-blox M10 settings relevant to the speed sailing community |
+| [ESP Config](https://logiqx.github.io/ubx-cfg/testing/static-esp/) | Study to identify an optimal M10 configuration for the ESP-GPS |
 
 
 
