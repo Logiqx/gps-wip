@@ -22,7 +22,7 @@ I am typically working on several mini projects at the same time, depending on d
 |                           ESP-GPS                            | Testing, feedback, thoughts and suggestions           |
 |                        Speedsurf.app                         | Providing feedback and suggestions                    |
 |                        Gated Results                         | Practical open source algorithm for gated results     |
-| [Garmin Issues](https://github.com/Logiqx/garmin-issues/issues) | Documenting various Garmin issues and requests        |
+| [Garmin Feedback](https://github.com/Logiqx/garmin-feedback/) | Documenting various Garmin issues and requests        |
 | [GPS Niggles](https://github.com/Logiqx/gps-niggles/issues)  | Reviewing old Github repo capturing general issues    |
 |                            Garmin                            | Testing the Forerunner 70 / 170 and the AG3352        |
 |                            COROS                             | FW 3.2108.0 for APEX 4, APEX 2 / 2 Pro, VERTIX 2 / 2S |
@@ -36,7 +36,7 @@ I have a number of projects on Github where I am tracking issues and enhancement
 |                           Project                            | Summary                                                      |
 | :----------------------------------------------------------: | ------------------------------------------------------------ |
 | [esp-gps-feedback](https://github.com/Logiqx/esp-gps-feedback) | Private repo to share feedback, thoughts and suggestions     |
-|  [garmin-issues](https://github.com/Logiqx/garmin-issues/)   | Issues that affect Garmin watches being used for speed sailing, etc |
+| [garmin-feedback](https://github.com/Logiqx/garmin-feedback/) | Issues that affect Garmin watches being used for speed sailing, etc |
 | [gps-niggles](https://github.com/Logiqx/gps-niggles/issues)  | Quite an old Github repo that captured various general issues |
 |     [gp3s-coros](https://github.com/Logiqx/gp3s-coros/)      | GPS3S wishlist for future COROS firmware releases            |
 |   [speedsurf.app](https://github.com/Logiqx/speedsurf.app)   | Private repo to to capture thoughts / ideas                  |
