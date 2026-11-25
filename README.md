@@ -16,16 +16,16 @@ My focus can change suddenly, so this page helps me to keep track of everything 
 
 I am typically working on several mini projects at the same time, depending on day-to-day priorities.
 
-|                           Project                            | Summary                                               |
-| :----------------------------------------------------------: | ----------------------------------------------------- |
-|                         GP3S Filters                         | Enhanced filters to improve the quality of results    |
-|                           ESP-GPS                            | Testing, feedback, thoughts and suggestions           |
-|                        Speedsurf.app                         | Providing feedback and suggestions                    |
-|                        Gated Results                         | Practical open source algorithm for gated results     |
-| [Garmin Feedback](https://github.com/Logiqx/garmin-feedback/) | Documenting various Garmin issues and requests        |
-| [GPS Niggles](https://github.com/Logiqx/gps-niggles/issues)  | Reviewing old Github repo capturing general issues    |
-|                        Garmin Watches                        | Testing the Forerunner 70 / 170 and the AG3352        |
-|                        COROS Watches                         | FW 3.2108.0 for APEX 4, APEX 2 / 2 Pro, VERTIX 2 / 2S |
+|                           Project                            | Summary                                                |
+| :----------------------------------------------------------: | ------------------------------------------------------ |
+|                        COROS Watches                         | FW 3.2108.0 for APEX 4, APEX 2 / 2 Pro, VERTIX 2 / 2S  |
+|                           ESP-GPS                            | Testing, feedback, thoughts and suggestions            |
+| [Garmin Feedback](https://github.com/Logiqx/garmin-feedback/) | Documenting various Garmin issues and requests         |
+|                        Garmin Watches                        | Testing the Forerunner 70 / 170 and the AG3352         |
+|                        Gated Results                         | Practical open source algorithm for 500 m gate results |
+|                         GP3S Filters                         | Enhanced filters to improve the quality of results     |
+| [GPS Niggles](https://github.com/Logiqx/gps-niggles/issues)  | Reviewing old Github repo capturing general issues     |
+|                        Speedsurf.app                         | Providing feedback and suggestions                     |
 
 
 
@@ -72,16 +72,16 @@ I am usually testing and evaluating multiple devices (or apps) at the same time,
 | :----------------------------------------------------------: | ------------------------------------------------------------ |
 | [APPro](https://apps.garmin.com/en-US/apps/9567700b-6587-44be-9708-879bfc844791) | Testing of new builds, discussing ideas for new features, etc |
 |    [ESP GPS](https://github.com/RP6conrad/ESP-GPS-Logger)    | Testing and evaluating the ESP GPS, sharing thoughts and suggestions |
-|                          SYRAC GPS                           | Testing and evaluating the SYRAC GPS, which is based on the ESP GPS |
 |                           LISA GPS                           | Testing and evaluating the LISA GPS, which is based on the ESP GPS |
+|                          SYRAC GPS                           | Testing and evaluating the SYRAC GPS, which is based on the ESP GPS |
 
 There are some devices that I have studied in great detail, but lost momentum and still need to document.
 
 |                           Project                            | Summary                                                      |
 | :----------------------------------------------------------: | ------------------------------------------------------------ |
-| [Garmin](https://logiqx.github.io/gps-details/devices/garmin/) | Evaluations of the Synaptics chipset - e.g. Garmin Forerunner 970 + fenix 8 Pro |
-| [COROS](https://logiqx.github.io/gps-details/devices/coros/) | Firmware issues keep cropping up, but I cannot test and document every FW release |
 | [Apple](https://logiqx.github.io/gps-details/devices/apple/) | Lots of evaluations have been performed for the Series 5 to Series 10, Ultra 1 + 2, SE, etc. |
+| [COROS](https://logiqx.github.io/gps-details/devices/coros/) | Firmware issues keep cropping up, but I cannot test and document every FW release |
+| [Garmin](https://logiqx.github.io/gps-details/devices/garmin/) | Evaluations of the Synaptics chipset - e.g. Garmin Forerunner 970 + fenix 8 Pro |
 | [Vakaros](https://logiqx.github.io/gps-details/devices/vakaros/) | Early evaluations have been completed, but I have provided some feedback to Vakaros |
 
 
@@ -92,10 +92,10 @@ Some of my projects have much longer term goals, and quite different in nature t
 
 |                          Project                          | Summary                                                      |
 | :-------------------------------------------------------: | ------------------------------------------------------------ |
-|      [WST Live](https://github.com/Logiqx/wst-live)       | Thoughts relating to the timekeeping, hardware, and software for WST events |
 |    [Garmin UBX](https://github.com/Logiqx/garmin-ubx)     | Potential for integration of Garmin watches with u-blox GNSS receivers |
-|                        OpenDoppler                        | Open-source GNSS speed logger platform for windsurfing and related water sports |
 | [GPY 1.1](https://logiqx.github.io/gps-wizard/ideas/gpy/) | Proposal builds upon the "minimal" frames that are currently supported by the GPY format |
+|                        OpenDoppler                        | Open-source GNSS speed logger platform for windsurfing and related water sports |
+|      [WST Live](https://github.com/Logiqx/wst-live)       | Thoughts relating to the timekeeping, hardware, and software for WST events |
 
 
 
@@ -105,15 +105,14 @@ Sometimes I am working on something and often near completion, but have to park 
 
 |                           Project                            | Summary                                                      |
 | :----------------------------------------------------------: | ------------------------------------------------------------ |
-| [Motion](https://logiqx.github.io/gps-details/devices/motion/) | Kinematic testing of 5 Hz vs 10 Hz produces interesting results which I need to document |
-|                        Gated Results                         | Practical open source algorithm for gated results such as 501 m for Prince of Speed |
-|                         Clock Drift                          | Study of clock drift and how it is handled by the SiRF Star II, SiRF Star III, and u-blox chips |
-|                         Integration                          | Documenting the different ways of integrating speed to calculate distance |
-|                      Error Propagation                       | Documenting the use of Gaussian error propagation... theory and practice |
 |                         Acceleration                         | Lots of analysis was undertaken relating to acceleration, but it still needs documenting |
-|                        Spike Filters                         | Approaches to filtering that massively improve spike handling for a variety of devices |
+|                         Clock Drift                          | Study of clock drift and how it is handled by the SiRF Star II, SiRF Star III, and u-blox chips |
+|                      Error Propagation                       | Documenting the use of Gaussian error propagation... theory and practice |
 |                       FIT Persistence                        | Garmin FIT files are subject to timing issues, but I devised an algorithm to fix the issue |
 |                         Garmin Tests                         | Numerous static tests using 12 or more different Garmin devices, never documented |
+|                         Integration                          | Documenting the different ways of integrating speed to calculate distance |
+| [Motion](https://logiqx.github.io/gps-details/devices/motion/) | Kinematic testing of 5 Hz vs 10 Hz produces interesting results which I need to document |
+|                        Spike Filters                         | Approaches to filtering that massively improve spike handling for a variety of devices |
 |                        Test Approach                         | Documenting GPS test approaches and the common anomalies that are present |
 
 
@@ -122,7 +121,7 @@ Sometimes I am working on something and often near completion, but have to park 
 
 These initiatives are no longer "currently on ice" and I have no real intention of picking them up.
 
-| Project                                          | Summary                                                      |
-| :----------------------------------------------------------: | ------------------------------------------------------------ |
+|                     Project                      | Summary                                                      |
+| :----------------------------------------------: | ------------------------------------------------------------ |
+|                 Garmin Antennas                  | The evolution of Garmin antennas is quite interesting, but I never wrote up my notes |
 | [GPX Ideas](https://github.com/Logiqx/gpx-ideas) | This project captured some ideas for a collection of “standard” GPX extensions |
-| Garmin Antennas                                  | The evolution of Garmin antennas is quite interesting, but I never wrote up my notes |
