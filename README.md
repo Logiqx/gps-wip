@@ -50,8 +50,9 @@ These are some relatively recent activities which are listed in reverse-chronolo
 
 |                           Project                            | Summary                                                      |
 | :----------------------------------------------------------: | ------------------------------------------------------------ |
-| [COROS Sats](https://logiqx.github.io/gps-details/devices/coros/investigations/sats/) | Quick investigation into the satellites being recorded by FW 3.2108.0 |
+| [Garmin GNSS](https://logiqx.github.io/gps-details/devices/garmin/chipsets/products.html) | Reviewing GNSS chipsets of internal photos from the FCC and Giteki |
 | [COROS GNSS](https://logiqx.github.io/gps-details/devices/coros/chipsets/) | Documented the GNSS chipsets used in COROS devices           |
+| [COROS Sats](https://logiqx.github.io/gps-details/devices/coros/investigations/sats/) | Quick investigation into the satellites being recorded by FW 3.2108.0 |
 | [ESP Contribs](https://logiqx.github.io/gps-details/devices/esp-gps/contributors.html) | List of the various ESP-GPS contributors over the years      |
 | [Decimation](https://logiqx.github.io/gps-wizard/ideas/decimation/) | Simple approach for 1 Hz files on devices such as the ESP-GPS |
 | [Gybe Scores](http://logiqx.github.io/gps-wizard/ideas/gybes) | Revised specification to reflect the implementation on speedsurf.app |
