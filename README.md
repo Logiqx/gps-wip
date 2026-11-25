@@ -36,7 +36,7 @@ These are some relatively recent activities which are listed in reverse-chronolo
 
 |                           Project                            | Summary                                                      |
 | :----------------------------------------------------------: | ------------------------------------------------------------ |
-| [Garmin Dev](https://logiqx.github.io/gps-details/devices/garmin/developer/) | Writing up fuidance to developers of Connect IQ apps         |
+| [Garmin Dev](https://logiqx.github.io/gps-details/devices/garmin/developer/) | Writing up guidance to developers of Connect IQ apps         |
 | [Garmin GNSS](https://logiqx.github.io/gps-details/devices/garmin/chipsets/products.html) | Reviewing GNSS chipsets of internal photos from the FCC and Giteki |
 | [COROS GNSS](https://logiqx.github.io/gps-details/devices/coros/chipsets/) | Documented the GNSS chipsets used in COROS devices           |
 | [COROS Sats](https://logiqx.github.io/gps-details/devices/coros/investigations/sats/) | Quick investigation into the satellites being recorded by FW 3.2108.0 |
