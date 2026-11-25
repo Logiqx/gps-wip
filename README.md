@@ -1,6 +1,6 @@
 ## GPS Projects - Work in Progress
 
-Last updated: 22 Nov 2026
+Last updated: 25 Nov 2026
 
 
 
@@ -24,8 +24,28 @@ I am typically working on several mini projects at the same time, depending on d
 |                        Gated Results                         | Practical open source algorithm for gated results     |
 | [Garmin Feedback](https://github.com/Logiqx/garmin-feedback/) | Documenting various Garmin issues and requests        |
 | [GPS Niggles](https://github.com/Logiqx/gps-niggles/issues)  | Reviewing old Github repo capturing general issues    |
-|                            Garmin                            | Testing the Forerunner 70 / 170 and the AG3352        |
-|                            COROS                             | FW 3.2108.0 for APEX 4, APEX 2 / 2 Pro, VERTIX 2 / 2S |
+|                        Garmin Watches                        | Testing the Forerunner 70 / 170 and the AG3352        |
+|                        COROS Watches                         | FW 3.2108.0 for APEX 4, APEX 2 / 2 Pro, VERTIX 2 / 2S |
+
+
+
+
+### Recent Activities
+
+These are some relatively recent activities which are listed in reverse-chronological order.
+
+|                           Project                            | Summary                                                      |
+| :----------------------------------------------------------: | ------------------------------------------------------------ |
+| [Garmin Dev](https://logiqx.github.io/gps-details/devices/garmin/developer/) | Writing up fuidance to developers of Connect IQ apps         |
+| [Garmin GNSS](https://logiqx.github.io/gps-details/devices/garmin/chipsets/products.html) | Reviewing GNSS chipsets of internal photos from the FCC and Giteki |
+| [COROS GNSS](https://logiqx.github.io/gps-details/devices/coros/chipsets/) | Documented the GNSS chipsets used in COROS devices           |
+| [COROS Sats](https://logiqx.github.io/gps-details/devices/coros/investigations/sats/) | Quick investigation into the satellites being recorded by FW 3.2108.0 |
+| [ESP Contribs](https://logiqx.github.io/gps-details/devices/esp-gps/contributors.html) | List of the various ESP-GPS contributors over the years      |
+| [Decimation](https://logiqx.github.io/gps-wizard/ideas/decimation/) | Simple approach for 1 Hz files on devices such as the ESP-GPS |
+| [Gybe Scores](http://logiqx.github.io/gps-wizard/ideas/gybes) | Revised specification to reflect the implementation on speedsurf.app |
+|      [Garmin IDs](https://github.com/Logiqx/garmin-ids)      | Automated cataloguing of Garmin watches, and updates to my [Garmin page](https://logiqx.github.io/gps-details/devices/garmin/) |
+|       [UBX Config](https://logiqx.github.io/ubx-cfg/)        | Documented the u-blox M10 settings relevant to the speed sailing community |
+| [ESP Config](https://logiqx.github.io/ubx-cfg/testing/static-esp/) | Study to identify an optimal M10 configuration for the ESP-GPS |
 
 
 
@@ -37,28 +57,10 @@ I have a number of projects on Github where I am tracking issues and enhancement
 | :----------------------------------------------------------: | ------------------------------------------------------------ |
 | [esp-gps-feedback](https://github.com/Logiqx/esp-gps-feedback) | Private repo to share feedback, thoughts and suggestions     |
 | [garmin-feedback](https://github.com/Logiqx/garmin-feedback/) | Issues that affect Garmin watches being used for speed sailing, etc |
-| [gps-niggles](https://github.com/Logiqx/gps-niggles/issues)  | Quite an old Github repo that captured various general issues |
 |     [gp3s-coros](https://github.com/Logiqx/gp3s-coros/)      | GPS3S wishlist for future COROS firmware releases            |
+| [gps-niggles](https://github.com/Logiqx/gps-niggles/issues)  | Quite an old Github repo that captured various general issues |
+| [lisa-gps-feedback](https://github.com/Logiqx/lisa-gps-feedback) | Private repo to share feedback, thoughts and suggestions     |
 |   [speedsurf.app](https://github.com/Logiqx/speedsurf.app)   | Private repo to to capture thoughts / ideas                  |
-
-
-
-
-### Recent Activities
-
-These are some relatively recent activities which are listed in reverse-chronological order.
-
-|                           Project                            | Summary                                                      |
-| :----------------------------------------------------------: | ------------------------------------------------------------ |
-| [Garmin GNSS](https://logiqx.github.io/gps-details/devices/garmin/chipsets/products.html) | Reviewing GNSS chipsets of internal photos from the FCC and Giteki |
-| [COROS GNSS](https://logiqx.github.io/gps-details/devices/coros/chipsets/) | Documented the GNSS chipsets used in COROS devices           |
-| [COROS Sats](https://logiqx.github.io/gps-details/devices/coros/investigations/sats/) | Quick investigation into the satellites being recorded by FW 3.2108.0 |
-| [ESP Contribs](https://logiqx.github.io/gps-details/devices/esp-gps/contributors.html) | List of the various ESP-GPS contributors over the years      |
-| [Decimation](https://logiqx.github.io/gps-wizard/ideas/decimation/) | Simple approach for 1 Hz files on devices such as the ESP-GPS |
-| [Gybe Scores](http://logiqx.github.io/gps-wizard/ideas/gybes) | Revised specification to reflect the implementation on speedsurf.app |
-|      [Garmin IDs](https://github.com/Logiqx/garmin-ids)      | Automated cataloguing of Garmin watches, and updates to my [Garmin page](https://logiqx.github.io/gps-details/devices/garmin/) |
-|       [UBX Config](https://logiqx.github.io/ubx-cfg/)        | Documented the u-blox M10 settings relevant to the speed sailing community |
-| [ESP Config](https://logiqx.github.io/ubx-cfg/testing/static-esp/) | Study to identify an optimal M10 configuration for the ESP-GPS |
 
 
 
@@ -104,7 +106,6 @@ Sometimes I am working on something and often near completion, but have to park 
 |                           Project                            | Summary                                                      |
 | :----------------------------------------------------------: | ------------------------------------------------------------ |
 | [Motion](https://logiqx.github.io/gps-details/devices/motion/) | Kinematic testing of 5 Hz vs 10 Hz produces interesting results which I need to document |
-|                        Garmin Advice                         | Advice for developers of apps and websites                   |
 |                        Gated Results                         | Practical open source algorithm for gated results such as 501 m for Prince of Speed |
 |                         Clock Drift                          | Study of clock drift and how it is handled by the SiRF Star II, SiRF Star III, and u-blox chips |
 |                         Integration                          | Documenting the different ways of integrating speed to calculate distance |
